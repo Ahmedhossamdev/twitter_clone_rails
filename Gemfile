@@ -63,7 +63,7 @@ gem "image_processing"
 gem "pg"
 
 group :production do
-  gem "aws-sdk-s3", "1.169.0", require: false
+  gem "aws-sdk-s3", "1.171.0", require: false
   gem "pg"
 end
 
